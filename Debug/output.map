@@ -1,0 +1,1712 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+                              src/stm32f1xx_it.o (HAL_IncTick)
+/home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+                              /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o) (HAL_NVIC_SetPriorityGrouping)
+/home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+                              /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o) (HAL_RCC_GetHCLKFreq)
+/home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+                              /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o) (HAL_GPIO_Init)
+/opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-errno.o)
+                              src/syscalls.o (__errno)
+/opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o)
+                              /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o (exit)
+/opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+                              /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o) (_global_impure_ptr)
+/opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-init.o)
+                              /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o (__libc_init_array)
+/opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memset.o)
+                              /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o (memset)
+/opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+                              /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o) (__call_exitprocs)
+/opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-atexit.o)
+                              /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o) (atexit)
+/opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-fini.o)
+                              /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o) (__libc_fini_array)
+/opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__atexit.o)
+                              /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-atexit.o) (__register_exitproc)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crti.o
+ .data          0x00000000        0x0 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crti.o
+ .bss           0x00000000        0x0 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crti.o
+ .data          0x00000000        0x4 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crtbegin.o
+ .text          0x00000000       0x74 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .data          0x00000000        0x0 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .bss           0x00000000        0x0 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .ARM.extab     0x00000000        0x0 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .ARM.exidx     0x00000000        0x8 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .ARM.attributes
+                0x00000000       0x1b /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .text          0x00000000        0x0 src/main.o
+ .data          0x00000000        0x0 src/main.o
+ .bss           0x00000000        0x0 src/main.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/stm32f1xx_it.o
+ .text          0x00000000        0x0 src/stm32f1xx_it.o
+ .data          0x00000000        0x0 src/stm32f1xx_it.o
+ .bss           0x00000000        0x0 src/stm32f1xx_it.o
+ .debug_macro   0x00000000      0x892 src/stm32f1xx_it.o
+ .debug_macro   0x00000000      0x216 src/stm32f1xx_it.o
+ .debug_macro   0x00000000       0x28 src/stm32f1xx_it.o
+ .debug_macro   0x00000000       0x22 src/stm32f1xx_it.o
+ .debug_macro   0x00000000       0x22 src/stm32f1xx_it.o
+ .debug_macro   0x00000000       0x44 src/stm32f1xx_it.o
+ .debug_macro   0x00000000       0xfd src/stm32f1xx_it.o
+ .debug_macro   0x00000000       0x22 src/stm32f1xx_it.o
+ .debug_macro   0x00000000      0x1df src/stm32f1xx_it.o
+ .debug_macro   0x00000000       0x34 src/stm32f1xx_it.o
+ .debug_macro   0x00000000       0x34 src/stm32f1xx_it.o
+ .debug_macro   0x00000000      0xb8e src/stm32f1xx_it.o
+ .debug_macro   0x00000000     0x69eb src/stm32f1xx_it.o
+ .debug_macro   0x00000000       0x43 src/stm32f1xx_it.o
+ .debug_macro   0x00000000     0x31c3 src/stm32f1xx_it.o
+ .debug_macro   0x00000000       0x58 src/stm32f1xx_it.o
+ .debug_macro   0x00000000       0x35 src/stm32f1xx_it.o
+ .debug_macro   0x00000000       0x9c src/stm32f1xx_it.o
+ .debug_macro   0x00000000       0x16 src/stm32f1xx_it.o
+ .debug_macro   0x00000000       0x97 src/stm32f1xx_it.o
+ .debug_macro   0x00000000      0x329 src/stm32f1xx_it.o
+ .debug_macro   0x00000000       0xfd src/stm32f1xx_it.o
+ .debug_macro   0x00000000       0x10 src/stm32f1xx_it.o
+ .debug_macro   0x00000000       0x52 src/stm32f1xx_it.o
+ .debug_macro   0x00000000       0x16 src/stm32f1xx_it.o
+ .debug_macro   0x00000000       0x43 src/stm32f1xx_it.o
+ .debug_macro   0x00000000      0x187 src/stm32f1xx_it.o
+ .debug_macro   0x00000000       0x10 src/stm32f1xx_it.o
+ .debug_macro   0x00000000       0x22 src/stm32f1xx_it.o
+ .debug_macro   0x00000000       0x3a src/stm32f1xx_it.o
+ .debug_macro   0x00000000       0x10 src/stm32f1xx_it.o
+ .debug_macro   0x00000000       0x40 src/stm32f1xx_it.o
+ .debug_macro   0x00000000       0x65 src/stm32f1xx_it.o
+ .debug_macro   0x00000000       0x16 src/stm32f1xx_it.o
+ .debug_macro   0x00000000      0x197 src/stm32f1xx_it.o
+ .debug_macro   0x00000000       0x57 src/stm32f1xx_it.o
+ .debug_macro   0x00000000      0x77f src/stm32f1xx_it.o
+ .debug_macro   0x00000000      0x28b src/stm32f1xx_it.o
+ .debug_macro   0x00000000      0x141 src/stm32f1xx_it.o
+ .debug_macro   0x00000000      0x197 src/stm32f1xx_it.o
+ .debug_macro   0x00000000      0x1a7 src/stm32f1xx_it.o
+ .debug_macro   0x00000000       0x2d src/stm32f1xx_it.o
+ .debug_macro   0x00000000       0x3c src/stm32f1xx_it.o
+ .debug_macro   0x00000000      0x401 src/stm32f1xx_it.o
+ .debug_macro   0x00000000       0x10 src/stm32f1xx_it.o
+ .debug_macro   0x00000000       0x57 src/stm32f1xx_it.o
+ .debug_macro   0x00000000      0x46a src/stm32f1xx_it.o
+ .debug_macro   0x00000000      0x1b5 src/stm32f1xx_it.o
+ .debug_macro   0x00000000       0x22 src/stm32f1xx_it.o
+ .debug_macro   0x00000000       0x8c src/stm32f1xx_it.o
+ .debug_macro   0x00000000      0x242 src/stm32f1xx_it.o
+ .debug_macro   0x00000000      0x225 src/stm32f1xx_it.o
+ .debug_macro   0x00000000       0x99 src/stm32f1xx_it.o
+ .debug_macro   0x00000000      0x143 src/stm32f1xx_it.o
+ .debug_macro   0x00000000      0x1ef src/stm32f1xx_it.o
+ .debug_macro   0x00000000       0xf2 src/stm32f1xx_it.o
+ .debug_macro   0x00000000      0x1f4 src/stm32f1xx_it.o
+ .debug_macro   0x00000000      0x83e src/stm32f1xx_it.o
+ .debug_macro   0x00000000       0x11 src/stm32f1xx_it.o
+ .debug_macro   0x00000000      0x256 src/stm32f1xx_it.o
+ .debug_macro   0x00000000      0x225 src/stm32f1xx_it.o
+ .debug_macro   0x00000000      0x1a7 src/stm32f1xx_it.o
+ .debug_macro   0x00000000      0x2d4 src/stm32f1xx_it.o
+ .debug_macro   0x00000000       0x8e src/stm32f1xx_it.o
+ .debug_macro   0x00000000       0x50 src/stm32f1xx_it.o
+ .debug_macro   0x00000000      0x26c src/stm32f1xx_it.o
+ .debug_macro   0x00000000       0x7c src/stm32f1xx_it.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .text          0x00000000        0x0 src/syscalls.o
+ .data          0x00000000        0x4 src/syscalls.o
+ .bss           0x00000000        0x8 src/syscalls.o
+ .text.initialise_monitor_handles
+                0x00000000        0xc src/syscalls.o
+ .text._getpid  0x00000000       0x10 src/syscalls.o
+ .text._kill    0x00000000       0x20 src/syscalls.o
+ .text._exit    0x00000000       0x14 src/syscalls.o
+ .text._read    0x00000000       0x3c src/syscalls.o
+ .text._write   0x00000000       0x38 src/syscalls.o
+ .text._sbrk    0x00000000       0x58 src/syscalls.o
+ .text._close   0x00000000       0x18 src/syscalls.o
+ .text._fstat   0x00000000       0x20 src/syscalls.o
+ .text._isatty  0x00000000       0x14 src/syscalls.o
+ .text._lseek   0x00000000       0x18 src/syscalls.o
+ .text._open    0x00000000       0x1c src/syscalls.o
+ .text._wait    0x00000000       0x20 src/syscalls.o
+ .text._unlink  0x00000000       0x20 src/syscalls.o
+ .text._times   0x00000000       0x18 src/syscalls.o
+ .text._stat    0x00000000       0x20 src/syscalls.o
+ .text._link    0x00000000       0x20 src/syscalls.o
+ .text._fork    0x00000000       0x18 src/syscalls.o
+ .text._execve  0x00000000       0x24 src/syscalls.o
+ .debug_info    0x00000000      0x667 src/syscalls.o
+ .debug_abbrev  0x00000000      0x177 src/syscalls.o
+ .debug_aranges
+                0x00000000       0xb0 src/syscalls.o
+ .debug_ranges  0x00000000       0xa0 src/syscalls.o
+ .debug_macro   0x00000000      0x1f3 src/syscalls.o
+ .debug_macro   0x00000000      0x892 src/syscalls.o
+ .debug_macro   0x00000000       0x58 src/syscalls.o
+ .debug_macro   0x00000000       0x22 src/syscalls.o
+ .debug_macro   0x00000000       0x35 src/syscalls.o
+ .debug_macro   0x00000000       0x9c src/syscalls.o
+ .debug_macro   0x00000000      0x174 src/syscalls.o
+ .debug_macro   0x00000000       0x4a src/syscalls.o
+ .debug_macro   0x00000000       0x52 src/syscalls.o
+ .debug_macro   0x00000000       0x16 src/syscalls.o
+ .debug_macro   0x00000000       0x43 src/syscalls.o
+ .debug_macro   0x00000000      0x187 src/syscalls.o
+ .debug_macro   0x00000000       0x10 src/syscalls.o
+ .debug_macro   0x00000000       0x35 src/syscalls.o
+ .debug_macro   0x00000000       0x10 src/syscalls.o
+ .debug_macro   0x00000000       0x10 src/syscalls.o
+ .debug_macro   0x00000000      0x329 src/syscalls.o
+ .debug_macro   0x00000000       0x10 src/syscalls.o
+ .debug_macro   0x00000000       0x22 src/syscalls.o
+ .debug_macro   0x00000000       0x22 src/syscalls.o
+ .debug_macro   0x00000000       0x3a src/syscalls.o
+ .debug_macro   0x00000000       0x10 src/syscalls.o
+ .debug_macro   0x00000000       0x40 src/syscalls.o
+ .debug_macro   0x00000000       0x65 src/syscalls.o
+ .debug_macro   0x00000000       0x35 src/syscalls.o
+ .debug_macro   0x00000000      0x122 src/syscalls.o
+ .debug_macro   0x00000000       0x16 src/syscalls.o
+ .debug_macro   0x00000000       0x16 src/syscalls.o
+ .debug_macro   0x00000000       0x29 src/syscalls.o
+ .debug_macro   0x00000000       0x10 src/syscalls.o
+ .debug_macro   0x00000000      0x241 src/syscalls.o
+ .debug_macro   0x00000000       0x1c src/syscalls.o
+ .debug_macro   0x00000000       0x10 src/syscalls.o
+ .debug_macro   0x00000000       0x16 src/syscalls.o
+ .debug_macro   0x00000000      0x197 src/syscalls.o
+ .debug_macro   0x00000000      0x159 src/syscalls.o
+ .debug_macro   0x00000000       0x16 src/syscalls.o
+ .debug_macro   0x00000000       0x88 src/syscalls.o
+ .debug_line    0x00000000      0x55b src/syscalls.o
+ .debug_str     0x00000000     0x72ab src/syscalls.o
+ .comment       0x00000000       0x6f src/syscalls.o
+ .debug_frame   0x00000000      0x2d4 src/syscalls.o
+ .ARM.attributes
+                0x00000000       0x33 src/syscalls.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .group         0x00000000        0x8 src/system_stm32f1xx.o
+ .text          0x00000000        0x0 src/system_stm32f1xx.o
+ .bss           0x00000000        0x0 src/system_stm32f1xx.o
+ .text.SystemCoreClockUpdate
+                0x00000000       0xd8 src/system_stm32f1xx.o
+ .debug_macro   0x00000000      0x892 src/system_stm32f1xx.o
+ .debug_macro   0x00000000       0x28 src/system_stm32f1xx.o
+ .debug_macro   0x00000000       0x22 src/system_stm32f1xx.o
+ .debug_macro   0x00000000       0x22 src/system_stm32f1xx.o
+ .debug_macro   0x00000000       0x44 src/system_stm32f1xx.o
+ .debug_macro   0x00000000       0xfd src/system_stm32f1xx.o
+ .debug_macro   0x00000000       0x22 src/system_stm32f1xx.o
+ .debug_macro   0x00000000      0x1df src/system_stm32f1xx.o
+ .debug_macro   0x00000000       0x34 src/system_stm32f1xx.o
+ .debug_macro   0x00000000       0x34 src/system_stm32f1xx.o
+ .debug_macro   0x00000000      0xb8e src/system_stm32f1xx.o
+ .debug_macro   0x00000000     0x69eb src/system_stm32f1xx.o
+ .debug_macro   0x00000000       0x43 src/system_stm32f1xx.o
+ .debug_macro   0x00000000      0x216 src/system_stm32f1xx.o
+ .debug_macro   0x00000000     0x31c3 src/system_stm32f1xx.o
+ .debug_macro   0x00000000       0x58 src/system_stm32f1xx.o
+ .debug_macro   0x00000000       0x35 src/system_stm32f1xx.o
+ .debug_macro   0x00000000       0x9c src/system_stm32f1xx.o
+ .debug_macro   0x00000000       0x16 src/system_stm32f1xx.o
+ .debug_macro   0x00000000       0x97 src/system_stm32f1xx.o
+ .debug_macro   0x00000000      0x329 src/system_stm32f1xx.o
+ .debug_macro   0x00000000       0xfd src/system_stm32f1xx.o
+ .debug_macro   0x00000000       0x10 src/system_stm32f1xx.o
+ .debug_macro   0x00000000       0x52 src/system_stm32f1xx.o
+ .debug_macro   0x00000000       0x16 src/system_stm32f1xx.o
+ .debug_macro   0x00000000       0x43 src/system_stm32f1xx.o
+ .debug_macro   0x00000000      0x187 src/system_stm32f1xx.o
+ .debug_macro   0x00000000       0x10 src/system_stm32f1xx.o
+ .debug_macro   0x00000000       0x22 src/system_stm32f1xx.o
+ .debug_macro   0x00000000       0x3a src/system_stm32f1xx.o
+ .debug_macro   0x00000000       0x10 src/system_stm32f1xx.o
+ .debug_macro   0x00000000       0x40 src/system_stm32f1xx.o
+ .debug_macro   0x00000000       0x65 src/system_stm32f1xx.o
+ .debug_macro   0x00000000       0x16 src/system_stm32f1xx.o
+ .debug_macro   0x00000000      0x197 src/system_stm32f1xx.o
+ .debug_macro   0x00000000       0x57 src/system_stm32f1xx.o
+ .debug_macro   0x00000000      0x77f src/system_stm32f1xx.o
+ .debug_macro   0x00000000      0x28b src/system_stm32f1xx.o
+ .debug_macro   0x00000000      0x141 src/system_stm32f1xx.o
+ .debug_macro   0x00000000      0x197 src/system_stm32f1xx.o
+ .debug_macro   0x00000000      0x1a7 src/system_stm32f1xx.o
+ .debug_macro   0x00000000       0x2d src/system_stm32f1xx.o
+ .debug_macro   0x00000000       0x3c src/system_stm32f1xx.o
+ .debug_macro   0x00000000      0x401 src/system_stm32f1xx.o
+ .debug_macro   0x00000000       0x10 src/system_stm32f1xx.o
+ .debug_macro   0x00000000       0x57 src/system_stm32f1xx.o
+ .debug_macro   0x00000000      0x46a src/system_stm32f1xx.o
+ .debug_macro   0x00000000      0x1b5 src/system_stm32f1xx.o
+ .debug_macro   0x00000000       0x22 src/system_stm32f1xx.o
+ .debug_macro   0x00000000       0x8c src/system_stm32f1xx.o
+ .debug_macro   0x00000000      0x242 src/system_stm32f1xx.o
+ .debug_macro   0x00000000      0x225 src/system_stm32f1xx.o
+ .debug_macro   0x00000000       0x99 src/system_stm32f1xx.o
+ .debug_macro   0x00000000      0x143 src/system_stm32f1xx.o
+ .debug_macro   0x00000000      0x1ef src/system_stm32f1xx.o
+ .debug_macro   0x00000000       0xf2 src/system_stm32f1xx.o
+ .debug_macro   0x00000000      0x1f4 src/system_stm32f1xx.o
+ .debug_macro   0x00000000      0x83e src/system_stm32f1xx.o
+ .debug_macro   0x00000000       0x11 src/system_stm32f1xx.o
+ .debug_macro   0x00000000      0x256 src/system_stm32f1xx.o
+ .debug_macro   0x00000000      0x225 src/system_stm32f1xx.o
+ .debug_macro   0x00000000      0x1a7 src/system_stm32f1xx.o
+ .debug_macro   0x00000000      0x2d4 src/system_stm32f1xx.o
+ .debug_macro   0x00000000       0x8e src/system_stm32f1xx.o
+ .debug_macro   0x00000000       0x50 src/system_stm32f1xx.o
+ .debug_macro   0x00000000      0x26c src/system_stm32f1xx.o
+ .debug_macro   0x00000000       0x7c src/system_stm32f1xx.o
+ .text          0x00000000       0x14 startup/startup_stm32f103xb.o
+ .data          0x00000000        0x0 startup/startup_stm32f103xb.o
+ .bss           0x00000000        0x0 startup/startup_stm32f103xb.o
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .text          0x00000000        0x0 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .data          0x00000000        0x0 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .text.HAL_Init
+                0x00000000       0x2c /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .text.HAL_DeInit
+                0x00000000       0x30 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .text.HAL_MspInit
+                0x00000000        0xc /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .text.HAL_MspDeInit
+                0x00000000        0xc /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .text.HAL_InitTick
+                0x00000000       0x38 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .text.HAL_GetTick
+                0x00000000       0x14 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .text.HAL_Delay
+                0x00000000       0x2c /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .text.HAL_SuspendTick
+                0x00000000       0x1c /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .text.HAL_ResumeTick
+                0x00000000       0x1c /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .text.HAL_GetHalVersion
+                0x00000000       0x14 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .text.HAL_GetREVID
+                0x00000000       0x34 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .text.HAL_GetDEVID
+                0x00000000       0x18 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .text.HAL_DBGMCU_EnableDBGSleepMode
+                0x00000000       0x1c /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .text.HAL_DBGMCU_DisableDBGSleepMode
+                0x00000000       0x1c /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .text.HAL_DBGMCU_EnableDBGStopMode
+                0x00000000       0x1c /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .text.HAL_DBGMCU_DisableDBGStopMode
+                0x00000000       0x1c /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .text.HAL_DBGMCU_EnableDBGStandbyMode
+                0x00000000       0x1c /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .text.HAL_DBGMCU_DisableDBGStandbyMode
+                0x00000000       0x1c /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000      0x216 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000       0x28 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000       0x22 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000       0x22 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000       0x44 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000       0xfd /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000       0x22 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000      0x1df /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000       0x34 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000       0x34 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000      0xb8e /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000     0x69eb /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000       0x43 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000     0x31c3 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000       0x58 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000       0x35 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000       0x9c /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000       0x16 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000       0x97 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000      0x329 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000       0xfd /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000       0x10 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000       0x52 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000       0x16 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000       0x43 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000      0x187 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000       0x10 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000       0x22 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000       0x3a /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000       0x10 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000       0x40 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000       0x65 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000       0x16 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000      0x197 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000       0x57 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000      0x77f /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000      0x28b /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000      0x141 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000      0x197 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000      0x1a7 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000       0x2d /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000       0x3c /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000      0x401 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000       0x10 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000       0x57 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000      0x46a /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000      0x1b5 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000       0x22 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000       0x8c /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000      0x242 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000      0x225 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000       0x99 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000      0x143 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000      0x1ef /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000       0xf2 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000      0x1f4 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000      0x83e /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000       0x11 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000      0x256 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000      0x225 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000      0x1a7 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000      0x2d4 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000       0x8e /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000       0x50 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000      0x26c /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00000000       0x7c /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .text          0x00000000        0x0 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .data          0x00000000        0x0 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .bss           0x00000000        0x0 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .text.NVIC_SetPriorityGrouping
+                0x00000000       0x48 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .text.NVIC_GetPriorityGrouping
+                0x00000000       0x1c /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .text.NVIC_EnableIRQ
+                0x00000000       0x30 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .text.NVIC_DisableIRQ
+                0x00000000       0x34 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .text.NVIC_GetPendingIRQ
+                0x00000000       0x34 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .text.NVIC_SetPendingIRQ
+                0x00000000       0x34 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .text.NVIC_ClearPendingIRQ
+                0x00000000       0x34 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .text.NVIC_GetActive
+                0x00000000       0x34 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .text.NVIC_SetPriority
+                0x00000000       0x54 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .text.NVIC_GetPriority
+                0x00000000       0x4c /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .text.NVIC_EncodePriority
+                0x00000000       0x60 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .text.NVIC_DecodePriority
+                0x00000000       0x68 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .text.NVIC_SystemReset
+                0x00000000       0x28 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .text.SysTick_Config
+                0x00000000       0x44 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .text.HAL_NVIC_SetPriorityGrouping
+                0x00000000       0x18 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .text.HAL_NVIC_SetPriority
+                0x00000000       0x38 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .text.HAL_NVIC_EnableIRQ
+                0x00000000       0x1c /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .text.HAL_NVIC_DisableIRQ
+                0x00000000       0x1c /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .text.HAL_NVIC_SystemReset
+                0x00000000        0xc /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .text.HAL_SYSTICK_Config
+                0x00000000       0x18 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .text.HAL_NVIC_GetPriorityGrouping
+                0x00000000       0x10 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .text.HAL_NVIC_GetPriority
+                0x00000000       0x2c /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .text.HAL_NVIC_SetPendingIRQ
+                0x00000000       0x1c /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .text.HAL_NVIC_GetPendingIRQ
+                0x00000000       0x20 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .text.HAL_NVIC_ClearPendingIRQ
+                0x00000000       0x1c /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .text.HAL_NVIC_GetActive
+                0x00000000       0x20 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .text.HAL_SYSTICK_CLKSourceConfig
+                0x00000000       0x38 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000      0x88c /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000      0x216 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x28 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x22 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x22 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x44 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0xfd /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x22 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000      0x1df /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x34 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x34 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000      0xb8e /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000     0x69eb /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x43 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000     0x31c3 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x58 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x35 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x9c /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x16 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x97 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000      0x329 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0xfd /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x10 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x52 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x16 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x43 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000      0x187 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x10 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x22 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x3a /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x10 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x40 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x65 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x16 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000      0x197 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x57 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000      0x77f /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000      0x28b /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000      0x141 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000      0x197 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000      0x1a7 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x2d /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x3c /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000      0x401 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x10 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x57 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000      0x46a /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000      0x1b5 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x22 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x8c /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000      0x242 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000      0x225 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x99 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000      0x143 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000      0x1ef /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0xf2 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000      0x1f4 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000      0x83e /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x11 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000      0x256 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000      0x225 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000      0x1a7 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000      0x2d4 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x8e /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x50 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000      0x26c /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x7c /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .text          0x00000000        0x0 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .data          0x00000000        0x0 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .bss           0x00000000        0x0 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .rodata        0x00000000       0x22 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .text.HAL_RCC_DeInit
+                0x00000000       0x70 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .text.HAL_RCC_OscConfig
+                0x00000000     0x1028 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .text.HAL_RCC_ClockConfig
+                0x00000000      0x5dc /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .text.HAL_RCC_MCOConfig
+                0x00000000       0x70 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .text.HAL_RCC_EnableCSS
+                0x00000000       0x34 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .text.HAL_RCC_DisableCSS
+                0x00000000       0x34 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .text.HAL_RCC_GetSysClockFreq
+                0x00000000       0xf4 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .text.HAL_RCC_GetHCLKFreq
+                0x00000000       0x50 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .text.HAL_RCC_GetPCLK1Freq
+                0x00000000       0x44 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .text.HAL_RCC_GetPCLK2Freq
+                0x00000000       0x44 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .text.HAL_RCC_GetOscConfig
+                0x00000000      0x110 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .text.HAL_RCC_GetClockConfig
+                0x00000000       0x60 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .text.HAL_RCC_NMI_IRQHandler
+                0x00000000       0x28 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .text.HAL_RCC_CSSCallback
+                0x00000000        0xc /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_info    0x00000000     0x16b9 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_abbrev  0x00000000      0x2aa /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_aranges
+                0x00000000       0x88 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_ranges  0x00000000       0x78 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000      0x3d5 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000      0x88c /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000      0x216 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000       0x28 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000       0x22 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000       0x22 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000       0x44 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000       0xfd /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000       0x22 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000      0x1df /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000       0x34 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000       0x34 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000      0xb8e /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000     0x69eb /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000       0x43 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000     0x31c3 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000       0x58 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000       0x35 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000       0x9c /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000       0x16 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000       0x97 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000      0x329 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000       0xfd /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000       0x10 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000       0x52 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000       0x16 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000       0x43 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000      0x187 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000       0x10 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000       0x22 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000       0x3a /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000       0x10 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000       0x40 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000       0x65 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000       0x16 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000      0x197 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000       0x57 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000      0x77f /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000      0x28b /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000      0x141 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000      0x197 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000      0x1a7 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000       0x2d /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000       0x3c /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000      0x401 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000       0x10 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000       0x57 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000      0x46a /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000      0x1b5 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000       0x22 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000       0x8c /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000      0x242 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000      0x225 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000       0x99 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000      0x143 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000      0x1ef /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000       0xf2 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000      0x1f4 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000      0x83e /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000       0x11 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000      0x256 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000      0x225 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000      0x1a7 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000      0x2d4 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000       0x8e /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000       0x50 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000      0x26c /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_macro   0x00000000       0x7c /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_line    0x00000000     0x13d1 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_str     0x00000000    0x6fdc7 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .comment       0x00000000       0x6f /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .debug_frame   0x00000000      0x220 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .ARM.attributes
+                0x00000000       0x33 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_rcc.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .group         0x00000000        0x8 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .text          0x00000000        0x0 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .data          0x00000000        0x0 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .bss           0x00000000        0x0 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .text.HAL_GPIO_Init
+                0x00000000      0x2bc /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .text.HAL_GPIO_DeInit
+                0x00000000      0x184 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .text.HAL_GPIO_ReadPin
+                0x00000000       0x30 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .text.HAL_GPIO_WritePin
+                0x00000000       0x30 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .text.HAL_GPIO_TogglePin
+                0x00000000       0x24 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .text.HAL_GPIO_LockPin
+                0x00000000       0x50 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .text.HAL_GPIO_EXTI_IRQHandler
+                0x00000000       0x30 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .text.HAL_GPIO_EXTI_Callback
+                0x00000000       0x14 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_info    0x00000000      0x5f9 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_abbrev  0x00000000      0x1af /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_aranges
+                0x00000000       0x58 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_ranges  0x00000000       0x48 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000      0x433 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000      0x88c /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000      0x216 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000       0x28 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000       0x22 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000       0x22 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000       0x44 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000       0xfd /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000       0x22 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000      0x1df /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000       0x34 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000       0x34 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000      0xb8e /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000     0x69eb /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000       0x43 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000     0x31c3 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000       0x58 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000       0x35 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000       0x9c /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000       0x16 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000       0x97 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000      0x329 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000       0xfd /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000       0x10 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000       0x52 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000       0x16 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000       0x43 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000      0x187 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000       0x10 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000       0x22 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000       0x3a /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000       0x10 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000       0x40 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000       0x65 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000       0x16 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000      0x197 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000       0x57 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000      0x77f /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000      0x28b /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000      0x141 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000      0x197 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000      0x1a7 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000       0x2d /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000       0x3c /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000      0x401 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000       0x10 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000       0x57 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000      0x46a /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000      0x1b5 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000       0x22 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000       0x8c /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000      0x242 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000      0x225 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000       0x99 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000      0x143 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000      0x1ef /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000       0xf2 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000      0x1f4 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000      0x83e /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000       0x11 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000      0x256 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000      0x225 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000      0x1a7 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000      0x2d4 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000       0x8e /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000       0x50 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000      0x26c /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_macro   0x00000000       0x7c /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_line    0x00000000      0xb17 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_str     0x00000000    0x6fe37 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .comment       0x00000000       0x6f /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .debug_frame   0x00000000      0x14c /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .ARM.attributes
+                0x00000000       0x33 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_gpio.o)
+ .text          0x00000000        0x0 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-errno.o)
+ .data          0x00000000        0x0 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-errno.o)
+ .bss           0x00000000        0x0 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-errno.o)
+ .text.__errno  0x00000000        0xc /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-errno.o)
+ .debug_frame   0x00000000       0x20 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-errno.o)
+ .ARM.attributes
+                0x00000000       0x2d /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-errno.o)
+ .text          0x00000000        0x0 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o)
+ .data          0x00000000        0x0 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x20 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x2d /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o)
+ .text          0x00000000        0x0 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+ .data          0x00000000        0x0 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+ .text          0x00000000        0x0 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-init.o)
+ .data          0x00000000        0x0 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-init.o)
+ .bss           0x00000000        0x0 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-init.o)
+ .text          0x00000000        0x0 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memset.o)
+ .data          0x00000000        0x0 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memset.o)
+ .text.memset   0x00000000       0x9c /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memset.o)
+ .debug_frame   0x00000000       0x34 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000       0x2d /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memset.o)
+ .text          0x00000000        0x0 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+ .data          0x00000000        0x0 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+ .bss           0x00000000        0x0 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x00000000       0xd8 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+ .text          0x00000000        0x0 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-atexit.o)
+ .data          0x00000000        0x0 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-atexit.o)
+ .bss           0x00000000        0x0 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-atexit.o)
+ .text          0x00000000        0x0 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-fini.o)
+ .data          0x00000000        0x0 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-fini.o)
+ .bss           0x00000000        0x0 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-fini.o)
+ .text          0x00000000        0x0 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__atexit.o)
+ .data          0x00000000        0x0 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__atexit.o)
+ .bss           0x00000000        0x0 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__atexit.o)
+ .text          0x00000000        0x0 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crtend.o
+ .data          0x00000000        0x0 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crtend.o
+ .bss           0x00000000        0x0 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crtend.o
+ .eh_frame      0x00000000        0x4 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crtend.o
+ .jcr           0x00000000        0x4 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crtend.o
+ .text          0x00000000        0x0 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crtn.o
+ .data          0x00000000        0x0 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crtn.o
+ .bss           0x00000000        0x0 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x08000000         0x00020000         xr
+RAM              0x20000000         0x00005000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crti.o
+LOAD /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crtbegin.o
+LOAD /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+LOAD /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libm.a
+LOAD src/main.o
+LOAD src/stm32f1xx_it.o
+LOAD src/syscalls.o
+LOAD src/system_stm32f1xx.o
+LOAD startup/startup_stm32f103xb.o
+LOAD /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a
+START GROUP
+LOAD /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/libgcc.a
+LOAD /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a
+END GROUP
+LOAD /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crtend.o
+LOAD /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crtn.o
+                0x20005000                _estack = 0x20005000
+                0x00000200                _Min_Heap_Size = 0x200
+                0x00000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x08000000      0x10c
+                0x08000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x10c startup/startup_stm32f103xb.o
+                0x08000000                g_pfnVectors
+                0x0800010c                . = ALIGN (0x4)
+
+.text           0x0800010c      0x414
+                0x0800010c                . = ALIGN (0x4)
+ *(.text)
+ .text          0x0800010c       0xa4 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crtbegin.o
+ *(.text*)
+ .text.NVIC_EnableIRQ
+                0x080001b0       0x30 src/main.o
+ .text.NVIC_SetPriority
+                0x080001e0       0x54 src/main.o
+ .text.TIM2_IRQHandler
+                0x08000234       0x2c src/main.o
+                0x08000234                TIM2_IRQHandler
+ .text.configurerTimer
+                0x08000260       0x4c src/main.o
+                0x08000260                configurerTimer
+ .text.main     0x080002ac       0x28 src/main.o
+                0x080002ac                main
+ .text.SysTick_Handler
+                0x080002d4       0x10 src/stm32f1xx_it.o
+                0x080002d4                SysTick_Handler
+ .text.SystemInit
+                0x080002e4       0x68 src/system_stm32f1xx.o
+                0x080002e4                SystemInit
+ .text.Reset_Handler
+                0x0800034c       0x48 startup/startup_stm32f103xb.o
+                0x0800034c                Reset_Handler
+ .text.Default_Handler
+                0x08000394        0x2 startup/startup_stm32f103xb.o
+                0x08000394                RTC_Alarm_IRQHandler
+                0x08000394                EXTI2_IRQHandler
+                0x08000394                DebugMon_Handler
+                0x08000394                TIM1_CC_IRQHandler
+                0x08000394                HardFault_Handler
+                0x08000394                PVD_IRQHandler
+                0x08000394                PendSV_Handler
+                0x08000394                NMI_Handler
+                0x08000394                EXTI3_IRQHandler
+                0x08000394                EXTI0_IRQHandler
+                0x08000394                I2C2_EV_IRQHandler
+                0x08000394                UsageFault_Handler
+                0x08000394                ADC1_2_IRQHandler
+                0x08000394                SPI1_IRQHandler
+                0x08000394                TAMPER_IRQHandler
+                0x08000394                DMA1_Channel4_IRQHandler
+                0x08000394                USART3_IRQHandler
+                0x08000394                RTC_IRQHandler
+                0x08000394                DMA1_Channel7_IRQHandler
+                0x08000394                CAN1_RX1_IRQHandler
+                0x08000394                TIM4_IRQHandler
+                0x08000394                I2C1_EV_IRQHandler
+                0x08000394                DMA1_Channel6_IRQHandler
+                0x08000394                TIM3_IRQHandler
+                0x08000394                RCC_IRQHandler
+                0x08000394                TIM1_TRG_COM_IRQHandler
+                0x08000394                DMA1_Channel1_IRQHandler
+                0x08000394                Default_Handler
+                0x08000394                EXTI15_10_IRQHandler
+                0x08000394                EXTI9_5_IRQHandler
+                0x08000394                SPI2_IRQHandler
+                0x08000394                MemManage_Handler
+                0x08000394                SVC_Handler
+                0x08000394                DMA1_Channel5_IRQHandler
+                0x08000394                EXTI4_IRQHandler
+                0x08000394                USB_LP_CAN1_RX0_IRQHandler
+                0x08000394                USB_HP_CAN1_TX_IRQHandler
+                0x08000394                DMA1_Channel3_IRQHandler
+                0x08000394                TIM1_UP_IRQHandler
+                0x08000394                WWDG_IRQHandler
+                0x08000394                TIM1_BRK_IRQHandler
+                0x08000394                EXTI1_IRQHandler
+                0x08000394                USART2_IRQHandler
+                0x08000394                I2C2_ER_IRQHandler
+                0x08000394                DMA1_Channel2_IRQHandler
+                0x08000394                CAN1_SCE_IRQHandler
+                0x08000394                FLASH_IRQHandler
+                0x08000394                BusFault_Handler
+                0x08000394                USART1_IRQHandler
+                0x08000394                I2C1_ER_IRQHandler
+                0x08000394                USBWakeUp_IRQHandler
+ *fill*         0x08000396        0x2 
+ .text.HAL_IncTick
+                0x08000398       0x1c /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+                0x08000398                HAL_IncTick
+ .text.HAL_SYSTICK_IRQHandler
+                0x080003b4        0xc /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+                0x080003b4                HAL_SYSTICK_IRQHandler
+ .text.HAL_SYSTICK_Callback
+                0x080003c0        0xc /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+                0x080003c0                HAL_SYSTICK_Callback
+ .text.__libc_init_array
+                0x080003cc       0x50 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-init.o)
+                0x080003cc                __libc_init_array
+ .text.startup.register_fini
+                0x0800041c       0x14 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+ .text.atexit   0x08000430        0xc /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-atexit.o)
+                0x08000430                atexit
+ .text.__libc_fini_array
+                0x0800043c       0x28 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-fini.o)
+                0x0800043c                __libc_fini_array
+ .text.__register_exitproc
+                0x08000464       0xa4 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__atexit.o)
+                0x08000464                __register_exitproc
+ *(.glue_7)
+ .glue_7        0x08000508        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x08000508        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x08000508        0x0 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crtbegin.o
+ *(.init)
+ .init          0x08000508        0x4 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crti.o
+                0x08000508                _init
+ .init          0x0800050c        0x8 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crtn.o
+ *(.fini)
+ .fini          0x08000514        0x4 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crti.o
+                0x08000514                _fini
+ .fini          0x08000518        0x8 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crtn.o
+                0x08000520                . = ALIGN (0x4)
+                0x08000520                _etext = .
+
+.vfp11_veneer   0x08000520        0x0
+ .vfp11_veneer  0x08000520        0x0 linker stubs
+
+.v4_bx          0x08000520        0x0
+ .v4_bx         0x08000520        0x0 linker stubs
+
+.iplt           0x08000520        0x0
+ .iplt          0x08000520        0x0 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crtbegin.o
+
+.rodata         0x08000520        0x8
+                0x08000520                . = ALIGN (0x4)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.str1.4
+                0x08000520        0x4 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+                                  0x2 (size before relaxing)
+ .rodata._global_impure_ptr
+                0x08000524        0x4 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+                0x08000524                _global_impure_ptr
+                0x08000528                . = ALIGN (0x4)
+
+.rel.dyn        0x08000528        0x0
+ .rel.iplt      0x08000528        0x0 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x08000528        0x0
+                0x08000528                __exidx_start = .
+ *(.ARM.exidx*)
+                0x08000528                __exidx_end = .
+
+.preinit_array  0x08000528        0x0
+                0x08000528                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array*)
+                0x08000528                PROVIDE (__preinit_array_end, .)
+
+.init_array     0x08000528        0x8
+                0x08000528                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ .init_array.00000
+                0x08000528        0x4 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+ *(.init_array*)
+ .init_array    0x0800052c        0x4 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crtbegin.o
+                0x08000530                PROVIDE (__init_array_end, .)
+
+.fini_array     0x08000530        0x4
+                0x08000530                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x08000530        0x4 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crtbegin.o
+                0x08000534                PROVIDE (__fini_array_end, .)
+                0x08000534                _sidata = LOADADDR (.data)
+
+.data           0x20000000      0x440 load address 0x08000534
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _sdata = .
+ *(.data)
+ .data          0x20000000       0x14 src/system_stm32f1xx.o
+                0x20000000                SystemCoreClock
+                0x20000004                AHBPrescTable
+ *(.data*)
+ *fill*         0x20000014        0x4 
+ .data.impure_data
+                0x20000018      0x428 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+                0x20000440                . = ALIGN (0x4)
+                0x20000440                _edata = .
+
+.jcr            0x20000440        0x0 load address 0x08000974
+ .jcr           0x20000440        0x0 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crtbegin.o
+
+.tm_clone_table
+                0x20000440        0x0 load address 0x08000974
+ .tm_clone_table
+                0x20000440        0x0 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crtbegin.o
+ .tm_clone_table
+                0x20000440        0x0 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crtend.o
+
+.igot.plt       0x20000440        0x0 load address 0x08000974
+ .igot.plt      0x20000440        0x0 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crtbegin.o
+                0x20000440                . = ALIGN (0x4)
+
+.bss            0x20000440       0x20 load address 0x08000974
+                0x20000440                _sbss = .
+                0x20000440                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x20000440       0x1c /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crtbegin.o
+ .bss           0x2000045c        0x4 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ *(.bss*)
+ *(COMMON)
+                0x20000460                . = ALIGN (0x4)
+                0x20000460                _ebss = .
+                0x20000460                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x20000460      0x600 load address 0x08000974
+                0x20000460                . = ALIGN (0x8)
+                0x20000460                PROVIDE (end, .)
+                [!provide]                PROVIDE (_end, .)
+                0x20000660                . = (. + _Min_Heap_Size)
+ *fill*         0x20000460      0x200 
+                0x20000a60                . = (. + _Min_Stack_Size)
+ *fill*         0x20000660      0x400 
+                0x20000a60                . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x00000000       0x29
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x1d /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crti.o
+ .ARM.attributes
+                0x0000001d       0x2d /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crtbegin.o
+ .ARM.attributes
+                0x0000004a       0x33 src/main.o
+ .ARM.attributes
+                0x0000007d       0x33 src/stm32f1xx_it.o
+ .ARM.attributes
+                0x000000b0       0x33 src/system_stm32f1xx.o
+ .ARM.attributes
+                0x000000e3       0x21 startup/startup_stm32f103xb.o
+ .ARM.attributes
+                0x00000104       0x33 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .ARM.attributes
+                0x00000137       0x33 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .ARM.attributes
+                0x0000016a       0x2d /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000197       0x2d /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x000001c4       0x2d /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x000001f1       0x2d /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x0000021e       0x2d /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x0000024b       0x2d /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x00000278       0x2d /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crtend.o
+ .ARM.attributes
+                0x000002a5       0x1d /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/crtn.o
+OUTPUT(pedago.elf elf32-littlearm)
+
+.debug_info     0x00000000     0x1d22
+ .debug_info    0x00000000      0x7b9 src/main.o
+ .debug_info    0x000007b9       0xbd src/stm32f1xx_it.o
+ .debug_info    0x00000876      0x3ad src/system_stm32f1xx.o
+ .debug_info    0x00000c23       0x6a startup/startup_stm32f103xb.o
+ .debug_info    0x00000c8d      0x5e7 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_info    0x00001274      0xaae /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+
+.debug_abbrev   0x00000000      0x76f
+ .debug_abbrev  0x00000000      0x160 src/main.o
+ .debug_abbrev  0x00000160       0x6a src/stm32f1xx_it.o
+ .debug_abbrev  0x000001ca      0x125 src/system_stm32f1xx.o
+ .debug_abbrev  0x000002ef       0x12 startup/startup_stm32f103xb.o
+ .debug_abbrev  0x00000301      0x1fb /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_abbrev  0x000004fc      0x273 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+
+.debug_aranges  0x00000000      0x260
+ .debug_aranges
+                0x00000000       0x40 src/main.o
+ .debug_aranges
+                0x00000040       0x20 src/stm32f1xx_it.o
+ .debug_aranges
+                0x00000060       0x28 src/system_stm32f1xx.o
+ .debug_aranges
+                0x00000088       0x28 startup/startup_stm32f103xb.o
+ .debug_aranges
+                0x000000b0       0xb0 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_aranges
+                0x00000160      0x100 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+
+.debug_ranges   0x00000000      0x208
+ .debug_ranges  0x00000000       0x30 src/main.o
+ .debug_ranges  0x00000030       0x10 src/stm32f1xx_it.o
+ .debug_ranges  0x00000040       0x18 src/system_stm32f1xx.o
+ .debug_ranges  0x00000058       0x20 startup/startup_stm32f103xb.o
+ .debug_ranges  0x00000078       0xa0 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_ranges  0x00000118       0xf0 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+
+.debug_macro    0x00000000    0x11913
+ .debug_macro   0x00000000      0x3cc src/main.o
+ .debug_macro   0x000003cc      0x892 src/main.o
+ .debug_macro   0x00000c5e       0x28 src/main.o
+ .debug_macro   0x00000c86       0x22 src/main.o
+ .debug_macro   0x00000ca8       0x22 src/main.o
+ .debug_macro   0x00000cca       0x44 src/main.o
+ .debug_macro   0x00000d0e       0xfd src/main.o
+ .debug_macro   0x00000e0b       0x22 src/main.o
+ .debug_macro   0x00000e2d      0x1df src/main.o
+ .debug_macro   0x0000100c       0x34 src/main.o
+ .debug_macro   0x00001040       0x34 src/main.o
+ .debug_macro   0x00001074      0xb8e src/main.o
+ .debug_macro   0x00001c02     0x69eb src/main.o
+ .debug_macro   0x000085ed       0x43 src/main.o
+ .debug_macro   0x00008630      0x216 src/main.o
+ .debug_macro   0x00008846     0x31c3 src/main.o
+ .debug_macro   0x0000ba09       0x58 src/main.o
+ .debug_macro   0x0000ba61       0x35 src/main.o
+ .debug_macro   0x0000ba96       0x9c src/main.o
+ .debug_macro   0x0000bb32       0x16 src/main.o
+ .debug_macro   0x0000bb48       0x97 src/main.o
+ .debug_macro   0x0000bbdf      0x329 src/main.o
+ .debug_macro   0x0000bf08       0xfd src/main.o
+ .debug_macro   0x0000c005       0x10 src/main.o
+ .debug_macro   0x0000c015       0x52 src/main.o
+ .debug_macro   0x0000c067       0x16 src/main.o
+ .debug_macro   0x0000c07d       0x43 src/main.o
+ .debug_macro   0x0000c0c0      0x187 src/main.o
+ .debug_macro   0x0000c247       0x10 src/main.o
+ .debug_macro   0x0000c257       0x22 src/main.o
+ .debug_macro   0x0000c279       0x3a src/main.o
+ .debug_macro   0x0000c2b3       0x10 src/main.o
+ .debug_macro   0x0000c2c3       0x40 src/main.o
+ .debug_macro   0x0000c303       0x65 src/main.o
+ .debug_macro   0x0000c368       0x16 src/main.o
+ .debug_macro   0x0000c37e      0x197 src/main.o
+ .debug_macro   0x0000c515       0x57 src/main.o
+ .debug_macro   0x0000c56c      0x77f src/main.o
+ .debug_macro   0x0000cceb      0x28b src/main.o
+ .debug_macro   0x0000cf76      0x141 src/main.o
+ .debug_macro   0x0000d0b7      0x197 src/main.o
+ .debug_macro   0x0000d24e      0x1a7 src/main.o
+ .debug_macro   0x0000d3f5       0x2d src/main.o
+ .debug_macro   0x0000d422       0x3c src/main.o
+ .debug_macro   0x0000d45e      0x401 src/main.o
+ .debug_macro   0x0000d85f       0x10 src/main.o
+ .debug_macro   0x0000d86f       0x57 src/main.o
+ .debug_macro   0x0000d8c6      0x46a src/main.o
+ .debug_macro   0x0000dd30      0x1b5 src/main.o
+ .debug_macro   0x0000dee5       0x22 src/main.o
+ .debug_macro   0x0000df07       0x8c src/main.o
+ .debug_macro   0x0000df93      0x242 src/main.o
+ .debug_macro   0x0000e1d5      0x225 src/main.o
+ .debug_macro   0x0000e3fa       0x99 src/main.o
+ .debug_macro   0x0000e493      0x143 src/main.o
+ .debug_macro   0x0000e5d6      0x1ef src/main.o
+ .debug_macro   0x0000e7c5       0xf2 src/main.o
+ .debug_macro   0x0000e8b7      0x1f4 src/main.o
+ .debug_macro   0x0000eaab      0x83e src/main.o
+ .debug_macro   0x0000f2e9       0x11 src/main.o
+ .debug_macro   0x0000f2fa      0x256 src/main.o
+ .debug_macro   0x0000f550      0x225 src/main.o
+ .debug_macro   0x0000f775      0x1a7 src/main.o
+ .debug_macro   0x0000f91c      0x2d4 src/main.o
+ .debug_macro   0x0000fbf0       0x8e src/main.o
+ .debug_macro   0x0000fc7e       0x50 src/main.o
+ .debug_macro   0x0000fcce      0x26c src/main.o
+ .debug_macro   0x0000ff3a       0x7c src/main.o
+ .debug_macro   0x0000ffb6      0x191 src/main.o
+ .debug_macro   0x00010147      0x3cd src/stm32f1xx_it.o
+ .debug_macro   0x00010514      0x3c9 src/system_stm32f1xx.o
+ .debug_macro   0x000108dd      0x3e7 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00010cc4      0x88c /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_macro   0x00011550      0x3c3 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+
+.debug_line     0x00000000     0x337c
+ .debug_line    0x00000000      0x9d7 src/main.o
+ .debug_line    0x000009d7      0x95a src/stm32f1xx_it.o
+ .debug_line    0x00001331      0x967 src/system_stm32f1xx.o
+ .debug_line    0x00001c98       0x7d startup/startup_stm32f103xb.o
+ .debug_line    0x00001d15      0xa99 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_line    0x000027ae      0xbce /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+
+.debug_str      0x00000000    0x709ee
+ .debug_str     0x00000000    0x70405 src/main.o
+                              0x7082e (size before relaxing)
+ .debug_str     0x00070405       0x38 src/stm32f1xx_it.o
+                              0x6f955 (size before relaxing)
+ .debug_str     0x0007043d       0x6f src/system_stm32f1xx.o
+                              0x6fa65 (size before relaxing)
+ .debug_str     0x000704ac      0x30a /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+                              0x6fffb (size before relaxing)
+ .debug_str     0x000707b6      0x238 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+                              0x70052 (size before relaxing)
+
+.comment        0x00000000       0x6e
+ .comment       0x00000000       0x6e src/main.o
+                                 0x6f (size before relaxing)
+ .comment       0x0000006e       0x6f src/stm32f1xx_it.o
+ .comment       0x0000006e       0x6f src/system_stm32f1xx.o
+ .comment       0x0000006e       0x6f /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .comment       0x0000006e       0x6f /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+
+.debug_frame    0x00000000      0x8e0
+ .debug_frame   0x00000000       0xb8 src/main.o
+ .debug_frame   0x000000b8       0x2c src/stm32f1xx_it.o
+ .debug_frame   0x000000e4       0x58 src/system_stm32f1xx.o
+ .debug_frame   0x0000013c      0x278 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal.o)
+ .debug_frame   0x000003b4      0x428 /home/elafru/workspace/nucleo-f103rb_hal_lib/Debug/libnucleo-f103rb_hal_lib.a(stm32f1xx_hal_cortex.o)
+ .debug_frame   0x000007dc       0x2c /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-init.o)
+ .debug_frame   0x00000808       0x50 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00000858       0x20 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-atexit.o)
+ .debug_frame   0x00000878       0x34 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-fini.o)
+ .debug_frame   0x000008ac       0x34 /opt/sw4stm32/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__atexit.o)
